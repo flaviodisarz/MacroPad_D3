@@ -18,3 +18,4 @@ Mudanças do sistema:
 - Ajuste da função de Carregar Configuração. Agora não é necessario clicar em salvar comandos, somente carregar o arquivo e clicar em gravar.
 - Instalador com menos arquivos. - Necessario apenas agora manter o instalador dentro da pasta na hora de executar o instalador.
 
+https://drive.google.com/drive/folders/1aDAOtr7TPjnBECHXQ-PhPNTqV3tmcDLe?usp=drive_link
